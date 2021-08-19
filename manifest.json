@@ -1,6 +1,6 @@
 {
-  "short_name": "Aplicação React",
-  "name": "Leitor QRCODE",
+  "short_name": "Aplicação PWA",
+  "name": "LEITOR QRCODE",
   "icons": [
     {
       "src": "favicon.ico",
